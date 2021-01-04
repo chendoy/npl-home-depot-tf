@@ -2,3 +2,5 @@ objects/
 models/
 job_output/
 sbatch-notebook
+home-depot-product-search-relevance
+.ipynb_checkpoints/
