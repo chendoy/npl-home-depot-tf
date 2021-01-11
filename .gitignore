@@ -4,3 +4,5 @@ job_output/
 sbatch-notebook
 home-depot-product-search-relevance
 .ipynb_checkpoints/
+GoogleNews-vectors-negative300.bin.gz
+GoogleNews-vectors-negative300.bin
